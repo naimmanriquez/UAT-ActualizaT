@@ -1,8 +1,10 @@
 # UAT-ActualizaT
 Módulo II: análisis territorial y geoestadística
 
-## Sobre el curso
-Para este curso vamos a trabajar, desde el principio, con código en R. Es necesario tener la última versión de este lenguaje, al momento de escribir este repositorio la versión más actual es la 4.2.2.
+## Sobre el módulo
+En este módulo se repasarán algunos conceptos de estadística para el análisis territorial. Así mismo, se estudiarán trabajos empíricos que han utilizado técnicas de econometría espacial y geoestadística. 
+
+Para este módulo vamos a trabajar, desde el principio, con código en R. Es necesario tener la última versión de este lenguaje, al momento de escribir este repositorio la versión más actual es la 4.2.2.
 
 Para instalarlo, es necesario entrar a [The Comprehensive R Archive Network](https://cran.r-project.org/) y seguir las instrucciones para cada sistema operativo.
 ### MAC OSX
