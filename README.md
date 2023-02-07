@@ -1,5 +1,13 @@
 # UAT-ActualizaT
-Módulo II: análisis territorial y geoestadística
+## Módulo II: análisis territorial y geoestadística
+## _Material de apoyo para módulo II_
+[![N|Solid](https://fiuat.mx/images/FIANS_UAT_FI_TAMPICO.png)](https://fiuat.mx/)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+La importancia de la estadística como lo menciona Stephen Few en una de sus publicaciones:
+> “Los números tienen una historia importante que contar ...
+> dependen de ti, para darles una voz. “
 
 ## Sobre el módulo
 En este módulo se repasarán algunos conceptos de estadística para el análisis territorial. Así mismo, se estudiarán trabajos empíricos que han utilizado técnicas de econometría espacial y geoestadística. 
