@@ -3,7 +3,7 @@
 [![N|Solid](https://fiuat.mx/images/uat.png)](https://fiuat.mx/)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-La importancia de la estadística como lo menciona Stephen Few en una de sus publicaciones:
+La primera ley de la geografía, o principio de autocorrelación espacial:
 > “Todas las cosas están relacionadas entre sí, pero las cosas más próximas en el espacio tienen una relación mayor que las distantes" ...
 
 ## Sobre el módulo
