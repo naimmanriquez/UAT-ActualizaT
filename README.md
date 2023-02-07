@@ -1,8 +1,6 @@
 # UAT-ActualizaT
-## Módulo II: análisis territorial y geoestadística
-## _Material de apoyo para módulo II_
-[![N|Solid](https://fiuat.mx/images/FIANS_UAT_FI_TAMPICO.png)](https://fiuat.mx/)
-
+## Módulo II: análisis territorial y geoestadística_
+[![N|Solid](https://fiuat.mx/images/uat.png)](https://fiuat.mx/)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 La importancia de la estadística como lo menciona Stephen Few en una de sus publicaciones:
